@@ -40,5 +40,5 @@ jobs:
 
       - name: Instalar
         run: | 
-          .github/workflows
+          ./.github/workflows
           ls -al
